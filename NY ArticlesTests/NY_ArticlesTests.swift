@@ -18,16 +18,24 @@ class NY_ArticlesTests: XCTestCase {
         // Put teardown code here. This method is called after the invocation of each test method in the class.
     }
 
-    func testExample() throws {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
-    }
-
     func testPerformanceExample() throws {
         // This is an example of a performance test case.
         self.measure {
             // Put the code you want to measure the time of here.
         }
     }
+    func testInitAppNav() throws{
+        _ = try makeSUT()
+    }
+    
+}
 
+extension NY_ArticlesTests{
+    private func makeSUT() throws -> LaunchViewController{
+        let bundle = Bundle(for: LaunchViewController.self)
+        let sb = UIStoryboard(name: "Main", bundle: bundle)
+        let launchVC = sb.instantiateInitialViewController()
+        let nav = try XCTUnwrap(launchVC as? UINavigationController)
+        return try XCTUnwrap(nav.topViewController as? LaunchViewController)
+    }
 }

@@ -1,0 +1,1222 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2021 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/871ef3b8-ab32-5240-9ea6-3ad1769b06cf",
+            "url": "https://www.nytimes.com/2021/12/17/t-magazine/new-york-best-food-restaurants.html",
+            "id": 100000008061282,
+            "asset_id": 100000008061282,
+            "source": "New York Times",
+            "published_date": "2021-12-17",
+            "updated": "2021-12-19 15:08:32",
+            "section": "T Magazine",
+            "subsection": "",
+            "nytdsection": "t magazine",
+            "adx_keywords": "Restaurants;La Morada (Bronx, NY, Restaurant);Teranga (Manhattan, NY, Restaurant);Birria-Landia (Food Truck);Peter Pan Donut & Pastry Shop (Brooklyn, NY);Falansai (Brooklyn, NY, Restaurant);L'Industrie Pizzeria (Brooklyn, NY, Restaurant);Lucali (Brooklyn, NY, Restaurant);Four Horsemen (Brooklyn, NY, Bar);Joe's Steam Rice Roll (Queens, NY, Restaurant);Bolivian Llama Party (Manhattan, NY, Restaurant);Spice Symphony (Manhattan, NY, Restaurant);Tres Leches Cafe (Manhattan, NY, Restaurant);Amy Ruth's;Mama Lee (Queens, NY, Restaurant);Russ & Daughters (Manhattan, NY);Nepali Bhanchha Ghar (Queens, NY, Restaurant);Dame (Manhattan, NY, Restaurant);Kopitiam (Manhattan, NY, Restaurant);Fat Choy (Manhattan, NY, Restaurant);Wah Fung No 1 Fast Food (Manhattan, NY, Restaurant);Nita's European Bakery (Queens, NY);I Sodi (Manhattan, NY, Restaurant);Shukette (Manhattan, NY, Restaurant);Warung Selasa (Queens, NY, Restaurant);Sullivan Street Bakery;New York City",
+            "column": null,
+            "byline": "By Dan Piepenbring, Kurt Soller, Amiel Stanek, Korsha Wilson and Daniel Terna",
+            "type": "Article",
+            "title": "The 25 Essential Dishes to Eat in New York City",
+            "abstract": "We asked six chefs and food experts to create a list of the most delicious and memorable plates in town.",
+            "des_facet": [
+                "Restaurants"
+            ],
+            "org_facet": [
+                "La Morada (Bronx, NY, Restaurant)",
+                "Teranga (Manhattan, NY, Restaurant)",
+                "Birria-Landia (Food Truck)",
+                "Peter Pan Donut & Pastry Shop (Brooklyn, NY)",
+                "Falansai (Brooklyn, NY, Restaurant)",
+                "L'Industrie Pizzeria (Brooklyn, NY, Restaurant)",
+                "Lucali (Brooklyn, NY, Restaurant)",
+                "Four Horsemen (Brooklyn, NY, Bar)",
+                "Joe's Steam Rice Roll (Queens, NY, Restaurant)",
+                "Bolivian Llama Party (Manhattan, NY, Restaurant)",
+                "Spice Symphony (Manhattan, NY, Restaurant)",
+                "Tres Leches Cafe (Manhattan, NY, Restaurant)",
+                "Amy Ruth's",
+                "Mama Lee (Queens, NY, Restaurant)",
+                "Russ & Daughters (Manhattan, NY)",
+                "Nepali Bhanchha Ghar (Queens, NY, Restaurant)",
+                "Dame (Manhattan, NY, Restaurant)",
+                "Kopitiam (Manhattan, NY, Restaurant)",
+                "Fat Choy (Manhattan, NY, Restaurant)",
+                "Wah Fung No 1 Fast Food (Manhattan, NY, Restaurant)",
+                "Nita's European Bakery (Queens, NY)",
+                "I Sodi (Manhattan, NY, Restaurant)",
+                "Shukette (Manhattan, NY, Restaurant)",
+                "Warung Selasa (Queens, NY, Restaurant)",
+                "Sullivan Street Bakery"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "New York City"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Daniel Terna",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/17/t-magazine/17tmag-25promo/17tmag-25promo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/17/t-magazine/17tmag-25promo/17tmag-25promo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/17/t-magazine/17tmag-25promo/17tmag-25promo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b5e4465c-edb0-5061-bffd-1b2c43e6d2e9",
+            "url": "https://www.nytimes.com/2021/12/17/nyregion/bomber-pilot-christmas-trees.html",
+            "id": 100000008116039,
+            "asset_id": 100000008116039,
+            "source": "New York Times",
+            "published_date": "2021-12-17",
+            "updated": "2021-12-19 08:50:27",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Content Type: Personal Profile;World War II (1939-45);Pilots;Entrepreneurship;Christmas Trees;Jews and Judaism;audio-positive-nostalgic;audio-positive-escape;audio-neutral-immersive;Spiegel, Si (1924- );United States Army",
+            "column": null,
+            "byline": "By Laurie Gwen Shapiro",
+            "type": "Article",
+            "title": "He Bombed the Nazis, Outwitted the Soviets and Modernized Christmas",
+            "abstract": "Si Spiegel, a bomber pilot, can claim a dual legacy: as a war hero and as a father of the artificial tree.",
+            "des_facet": [
+                "Content Type: Personal Profile",
+                "World War II (1939-45)",
+                "Pilots",
+                "Entrepreneurship",
+                "Christmas Trees",
+                "Jews and Judaism",
+                "audio-positive-nostalgic",
+                "audio-positive-escape",
+                "audio-neutral-immersive"
+            ],
+            "org_facet": [
+                "United States Army"
+            ],
+            "per_facet": [
+                "Spiegel, Si (1924- )"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Spiegel as a young pilot.",
+                    "copyright": "Carly Zavala for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/17/nyregion/17bomber-pilot7/17bomber-pilot7-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/17/nyregion/17bomber-pilot7/17bomber-pilot7-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/17/nyregion/17bomber-pilot7/17bomber-pilot7-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b31e48e4-4602-503b-8067-126e00c9481f",
+            "url": "https://www.nytimes.com/2021/12/11/well/family/rude-child-development-behavior.html",
+            "id": 100000008113894,
+            "asset_id": 100000008113894,
+            "source": "New York Times",
+            "published_date": "2021-12-11",
+            "updated": "2021-12-11 05:00:05",
+            "section": "Well",
+            "subsection": "Family",
+            "nytdsection": "well",
+            "adx_keywords": "Children and Childhood;Parenting",
+            "column": null,
+            "byline": "By Melinda Wenner Moyer",
+            "type": "Article",
+            "title": "Why Your Kid’s Bad Behavior May Be a Good Thing",
+            "abstract": "The safer children feel, the more they can show their true selves — warts and all — experts say. And that’s good for their development.",
+            "des_facet": [
+                "Children and Childhood",
+                "Parenting"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Amélie Fontaine",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/09/well/00well-kids-misbehave-good/00well-kids-misbehave-good-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/09/well/00well-kids-misbehave-good/00well-kids-misbehave-good-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/09/well/00well-kids-misbehave-good/00well-kids-misbehave-good-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/d4cc9075-f608-574f-80bc-0ce8a99c8c14",
+            "url": "https://www.nytimes.com/article/testing-positive-covid-omicron-variant.html",
+            "id": 100000008123900,
+            "asset_id": 100000008123900,
+            "source": "New York Times",
+            "published_date": "2021-12-18",
+            "updated": "2021-12-22 16:42:22",
+            "section": "Well",
+            "subsection": "Live",
+            "nytdsection": "well",
+            "adx_keywords": "Coronavirus Omicron Variant;Coronavirus (2019-nCoV);Tests (Medical);Antibodies;Quarantines;Contact Tracing (Public Health);Content Type: Service;internal-essential;Coronavirus Risks and Safety Concerns",
+            "column": null,
+            "byline": "By Dani Blum and Nicole Stock",
+            "type": "Article",
+            "title": "You Tested Positive for Covid. Now What?",
+            "abstract": "The Omicron variant has fueled a rise in Covid-19 cases across the United States. Here’s what you need to know if you get infected.",
+            "des_facet": [
+                "Coronavirus Omicron Variant",
+                "Coronavirus (2019-nCoV)",
+                "Tests (Medical)",
+                "Antibodies",
+                "Quarantines",
+                "Contact Tracing (Public Health)",
+                "Content Type: Service",
+                "internal-essential",
+                "Coronavirus Risks and Safety Concerns"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A positive result from a Covid-19 rapid antigen test.",
+                    "copyright": "Octavio Jones/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/17/well/17well-virus-positive2/17well-virus-positive2-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/17/well/17well-virus-positive2/17well-virus-positive2-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/17/well/17well-virus-positive2/17well-virus-positive2-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/89fba66e-1f07-51b5-bfc6-179a7ca1dc05",
+            "url": "https://www.nytimes.com/2021/12/20/well/mind/how-to-declutter.html",
+            "id": 100000008124627,
+            "asset_id": 100000008124627,
+            "source": "New York Times",
+            "published_date": "2021-12-20",
+            "updated": "2021-12-21 17:43:33",
+            "section": "Well",
+            "subsection": "Mind",
+            "nytdsection": "well",
+            "adx_keywords": "Orderliness and Clutter;Content Type: Service",
+            "column": null,
+            "byline": "By Jane E. Brody",
+            "type": "Article",
+            "title": "Why We Clutter, and What to Do About It",
+            "abstract": "All that “stuff” in our drawers, closets and corners is a hazard, but there are ways to keep it at bay.",
+            "des_facet": [
+                "Orderliness and Clutter",
+                "Content Type: Service"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Rachel Levit Ruiz",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/21/science/21sci-brody-clutter/21sci-brody-clutter-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/21/science/21sci-brody-clutter/21sci-brody-clutter-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/21/science/21sci-brody-clutter/21sci-brody-clutter-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/3556b87f-3327-5032-9f7e-f9674fa383e7",
+            "url": "https://www.nytimes.com/2021/12/15/magazine/grieving-loss-closure.html",
+            "id": 100000008114566,
+            "asset_id": 100000008114566,
+            "source": "New York Times",
+            "published_date": "2021-12-15",
+            "updated": "2021-12-19 14:00:55",
+            "section": "Magazine",
+            "subsection": "",
+            "nytdsection": "magazine",
+            "adx_keywords": "Grief (Emotion);Death and Dying;Black People;Black Lives Matter Movement;George Floyd Protests (2020);Coronavirus (2019-nCoV);Psychology and Psychologists;University of Minnesota",
+            "column": null,
+            "byline": "By Meg Bernhard",
+            "type": "Article",
+            "title": "What if There’s No Such Thing as Closure?",
+            "abstract": "Many of us are taught that if we work hard enough we’ll be able to get over our losses. The social scientist Pauline Boss sees it differently.",
+            "des_facet": [
+                "Grief (Emotion)",
+                "Death and Dying",
+                "Black People",
+                "Black Lives Matter Movement",
+                "George Floyd Protests (2020)",
+                "Coronavirus (2019-nCoV)",
+                "Psychology and Psychologists"
+            ],
+            "org_facet": [
+                "University of Minnesota"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Artwork by Amy Friend",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/19/magazine/19mag-Boss-02/19mag-Boss-02-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/19/magazine/19mag-Boss-02/19mag-Boss-02-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/19/magazine/19mag-Boss-02/19mag-Boss-02-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/08d2d51c-b92c-5aa7-a32a-5bee8cfc0cc9",
+            "url": "https://www.nytimes.com/2021/12/20/us/holocaust-librarian-elementary-school.html",
+            "id": 100000008128133,
+            "asset_id": 100000008128133,
+            "source": "New York Times",
+            "published_date": "2021-12-20",
+            "updated": "2021-12-21 00:07:41",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Holocaust and the Nazi Era;Education (K-12);Anti-Semitism;Libraries and Librarians;Watkins Elementary School (Washington, DC);Washington (DC)",
+            "column": null,
+            "byline": "By Vimal Patel",
+            "type": "Article",
+            "title": "Third-Graders Instructed to Re-enact Scenes From Holocaust, Principal Says",
+            "abstract": "A staff librarian was put on leave after students at an elementary school in Washington, D.C., were directed to simulate shootings and the digging of mass graves.",
+            "des_facet": [
+                "Holocaust and the Nazi Era",
+                "Education (K-12)",
+                "Anti-Semitism",
+                "Libraries and Librarians"
+            ],
+            "org_facet": [
+                "Watkins Elementary School (Washington, DC)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Washington (DC)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“I want to acknowledge the gravity of this poor instructional decision,” the principal of Watkins Elementary School in Washington, D.C., said.",
+                    "copyright": "Google Maps",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/19/us/19xp-holocaust/19xp-holocaust-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/19/us/19xp-holocaust/19xp-holocaust-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/19/us/19xp-holocaust/19xp-holocaust-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/0c261f61-48f0-55d7-956b-e4dda312f74c",
+            "url": "https://www.nytimes.com/2021/12/19/opinion/omicron-breakthroughs.html",
+            "id": 100000008125717,
+            "asset_id": 100000008125717,
+            "source": "New York Times",
+            "published_date": "2021-12-19",
+            "updated": "2021-12-22 08:06:18",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Coronavirus Omicron Variant;Disease Rates;Coronavirus Risks and Safety Concerns",
+            "column": null,
+            "byline": "By Eleanor Cummins",
+            "type": "Article",
+            "title": "Most Covid Infections May Soon Be Breakthroughs. Here’s What That Means.",
+            "abstract": "Omicron means many more people will soon test positive. ",
+            "des_facet": [
+                "Coronavirus Omicron Variant",
+                "Disease Rates",
+                "Coronavirus Risks and Safety Concerns"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Pete Kiehart for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/20/multimedia/20Cummins/20Cummins-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/20/multimedia/20Cummins/20Cummins-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/20/multimedia/20Cummins/20Cummins-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/db77354c-ce28-5cf2-aece-bb023aeb971e",
+            "url": "https://www.nytimes.com/article/student-loan-payment-restart.html",
+            "id": 100000008114085,
+            "asset_id": 100000008114085,
+            "source": "New York Times",
+            "published_date": "2021-12-17",
+            "updated": "2021-12-22 18:59:18",
+            "section": "Your Money",
+            "subsection": "",
+            "nytdsection": "your money",
+            "adx_keywords": "Content Type: Service;Student Loans;Financial Aid (Education);Coronavirus (2019-nCoV);Education Department (US)",
+            "column": null,
+            "byline": "By Tara Siegel Bernard",
+            "type": "Article",
+            "title": "The Student Loan Payment Restart Was Delayed. Here’s What to Do.",
+            "abstract": "Payments are now on hold until May 1. President Biden wants borrowers to get into more affordable payment plans if they need to.",
+            "des_facet": [
+                "Content Type: Service",
+                "Student Loans",
+                "Financial Aid (Education)",
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [
+                "Education Department (US)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "George Wylesol",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/17/business/17student-loans/17student-loans-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/17/business/17student-loans/17student-loans-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/17/business/17student-loans/17student-loans-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/32e077bc-f9c6-57dc-985a-136977225a11",
+            "url": "https://www.nytimes.com/2021/12/21/nyregion/city-college-mystery-donor.html",
+            "id": 100000008115345,
+            "asset_id": 100000008115345,
+            "source": "New York Times",
+            "published_date": "2021-12-21",
+            "updated": "2021-12-23 00:41:51",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Colleges and Universities;Philanthropy;Physics;Scholarships and Fellowships;City College of New York",
+            "column": null,
+            "byline": "By Corey Kilgannon",
+            "type": "Article",
+            "title": "A Box of Cash, a Secret Donor and a Big Lift for Some N.Y.C. Students",
+            "abstract": "When a City College physics professor opened an ordinary box that had been sitting in the mailroom, he was startled by its contents.",
+            "des_facet": [
+                "Colleges and Universities",
+                "Philanthropy",
+                "Physics",
+                "Scholarships and Fellowships"
+            ],
+            "org_facet": [
+                "City College of New York"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The box contained bundles of $50 and $100 bills, adding up to $180,000. ",
+                    "copyright": "The City College of New York",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/20/nyregion/boxofcash/boxofcash-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/20/nyregion/boxofcash/boxofcash-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/20/nyregion/boxofcash/boxofcash-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/c1ceec61-cf26-5700-94b6-2010c0f7c9e9",
+            "url": "https://www.nytimes.com/2021/12/16/opinion/factory-farming-animals.html",
+            "id": 100000008109049,
+            "asset_id": 100000008109049,
+            "source": "New York Times",
+            "published_date": "2021-12-16",
+            "updated": "2021-12-17 21:56:18",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Philanthropy;Animal Abuse, Rights and Welfare;Factory Farming;Livestock;Meat;Content Type: Service;Good Food Institute;Mercy for Animals;Humane League (Nonprofit);New Harvest (Nonprofit);Material Innovation Initiative (Nonprofit)",
+            "column": null,
+            "byline": "By Ezra Klein",
+            "type": "Article",
+            "title": "We Will Look Back on This Age of Cruelty to Animals in Horror",
+            "abstract": " How we treat farm animals today will be seen as a defining moral failing of our age.",
+            "des_facet": [
+                "Philanthropy",
+                "Animal Abuse, Rights and Welfare",
+                "Factory Farming",
+                "Livestock",
+                "Meat",
+                "Content Type: Service"
+            ],
+            "org_facet": [
+                "Good Food Institute",
+                "Mercy for Animals",
+                "Humane League (Nonprofit)",
+                "New Harvest (Nonprofit)",
+                "Material Innovation Initiative (Nonprofit)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Igor Bastidas",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/19/opinion/sunday/16klein/16klein-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/19/opinion/sunday/16klein/16klein-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/19/opinion/sunday/16klein/16klein-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/d359f28e-be77-567d-bc85-bd93d5a3106d",
+            "url": "https://www.nytimes.com/2021/12/15/well/move/exercise-weight-loss-metabolism.html",
+            "id": 100000008118365,
+            "asset_id": 100000008118365,
+            "source": "New York Times",
+            "published_date": "2021-12-15",
+            "updated": "2021-12-21 09:04:59",
+            "section": "Well",
+            "subsection": "Move",
+            "nytdsection": "well",
+            "adx_keywords": "Exercise;Weight;Obesity;Calories;Muscles;Reality Television;Obesity (Journal)",
+            "column": null,
+            "byline": "By Gretchen Reynolds",
+            "type": "Article",
+            "title": "How Exercise Affects Metabolism and Weight Loss",
+            "abstract": "A new analysis of data from “The Biggest Loser” highlights the complex ways the body compensates when we drop pounds.",
+            "des_facet": [
+                "Exercise",
+                "Weight",
+                "Obesity",
+                "Calories",
+                "Muscles",
+                "Reality Television"
+            ],
+            "org_facet": [
+                "Obesity (Journal)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A scene from Season 16 of the NBC reality show “The Biggest Loser” in 2014.",
+                    "copyright": "Trae Patton/NBC",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/21/well/15sci-physed-weight/15sci-physed-weight-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/21/well/15sci-physed-weight/15sci-physed-weight-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/21/well/15sci-physed-weight/15sci-physed-weight-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b1470d25-d1d8-52a9-88de-234d5d543037",
+            "url": "https://www.nytimes.com/2021/12/15/us/bee-hive-shower.html",
+            "id": 100000008121924,
+            "asset_id": 100000008121924,
+            "source": "New York Times",
+            "published_date": "2021-12-15",
+            "updated": "2021-12-15 19:30:29",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Bees;Honey;Florida;St Petersburg (Fla)",
+            "column": null,
+            "byline": "By Neil Vigdor",
+            "type": "Article",
+            "title": "80,000 Honey Bees Found in Wall of Shower (Also, 100 Pounds of Honey)",
+            "abstract": "“They were nice bees,” a St. Petersburg, Fla., homeowner said, but a bathroom renovation meant they had to go. A beekeeper safely removed them.",
+            "des_facet": [
+                "Bees",
+                "Honey"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Florida",
+                "St Petersburg (Fla)"
+            ],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/2ab1e3ad-fcff-5cac-b6ce-416fce20778b",
+            "url": "https://www.nytimes.com/2021/12/17/nyregion/cross-country-canoe-paddle.html",
+            "id": 100000008119258,
+            "asset_id": 100000008119258,
+            "source": "New York Times",
+            "published_date": "2021-12-17",
+            "updated": "2021-12-19 13:34:28",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Canoes and Canoeing;Rivers;States (US);Statue of Liberty;United States;Astoria (Ore);Hudson River;Manhattan (NYC);New York Harbor;New York State",
+            "column": null,
+            "byline": "By Corey Kilgannon",
+            "type": "Article",
+            "title": "Two Years, 22 Rivers, 7,500 Miles. Crossing America by Canoe.",
+            "abstract": "Paddling through the pandemic to see the country from water level “up close and personal at this interesting time.”",
+            "des_facet": [
+                "Canoes and Canoeing",
+                "Rivers",
+                "States (US)",
+                "Statue of Liberty"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "United States",
+                "Astoria (Ore)",
+                "Hudson River",
+                "Manhattan (NYC)",
+                "New York Harbor",
+                "New York State"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“I wanted to see the country up close and personal at this interesting time, with the pandemic and all the political strife, to find out what it actually means to be American today,” Mr. Moore said.",
+                    "copyright": "Hilary Swift for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/15/nyregion/00canoe-02/00canoe-02-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/15/nyregion/00canoe-02/00canoe-02-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/15/nyregion/00canoe-02/00canoe-02-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/0cf78f79-ef46-500d-8b0b-e5bc08ac0d5e",
+            "url": "https://www.nytimes.com/2021/12/16/arts/design/atheneum-art-sexism-women-museum.html",
+            "id": 100000008120800,
+            "asset_id": 100000008120800,
+            "source": "New York Times",
+            "published_date": "2021-12-16",
+            "updated": "2021-12-17 00:55:15",
+            "section": "Arts",
+            "subsection": "Art & Design",
+            "nytdsection": "arts",
+            "adx_keywords": "Art;Women and Girls;Museums;Anguissola, Sofonisba (1532-1625);Gentileschi, Artemisia;Nochlin, Linda (1931- );Detroit Institute of Arts;Wadsworth Atheneum;Florence (Italy);Connecticut",
+            "column": null,
+            "byline": "By Jason Farago",
+            "type": "Article",
+            "title": "The Renaissance Women Who Painted Against the Odds",
+            "abstract": "The Wadsworth Atheneum spotlights female artists from Italy in the 16th through 18th centuries, and asks: Who got left out of the canon?",
+            "des_facet": [
+                "Art",
+                "Women and Girls",
+                "Museums"
+            ],
+            "org_facet": [
+                "Detroit Institute of Arts",
+                "Wadsworth Atheneum"
+            ],
+            "per_facet": [
+                "Anguissola, Sofonisba (1532-1625)",
+                "Gentileschi, Artemisia",
+                "Nochlin, Linda (1931- )"
+            ],
+            "geo_facet": [
+                "Florence (Italy)",
+                "Connecticut"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Artemisia Gentileschi, with “Self-Portrait as a Lute Player,” c. 1615–18, and other paintings, headlines a show of women of the Italian Renaissance and Baroque at the Wadsworth Atheneum.",
+                    "copyright": "Wadsworth Atheneum Museum of Art",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/17/arts/16wadsworth-review-1/merlin_199297380_ad31742c-891c-4f85-a194-dfd2dc4d255e-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/17/arts/16wadsworth-review-1/merlin_199297380_ad31742c-891c-4f85-a194-dfd2dc4d255e-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/17/arts/16wadsworth-review-1/merlin_199297380_ad31742c-891c-4f85-a194-dfd2dc4d255e-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/791da951-5350-5ed3-833c-640b733d5f53",
+            "url": "https://www.nytimes.com/2021/12/17/arts/design/native-american-enslavement-colorado-exhibition.html",
+            "id": 100000008108697,
+            "asset_id": 100000008108697,
+            "source": "New York Times",
+            "published_date": "2021-12-17",
+            "updated": "2021-12-21 09:34:09",
+            "section": "Arts",
+            "subsection": "Art & Design",
+            "nytdsection": "arts",
+            "adx_keywords": "Art;Slavery (Historical);Native Americans;Navajo Indians;Museums;Thomas, Chip (Photographer);Fort Garland Museum & Cultural Center;Colorado",
+            "column": null,
+            "byline": "By Patricia Leigh Brown",
+            "type": "Article",
+            "title": "A Grim, Long-Hidden Truth Emerges in Art: Native American Enslavement",
+            "abstract": "Two exhibitions highlight stories of Indigenous bondage in southern Colorado, in an effort to grapple with the lasting trauma.",
+            "des_facet": [
+                "Art",
+                "Slavery (Historical)",
+                "Native Americans",
+                "Navajo Indians",
+                "Museums"
+            ],
+            "org_facet": [
+                "Fort Garland Museum & Cultural Center"
+            ],
+            "per_facet": [
+                "Thomas, Chip (Photographer)"
+            ],
+            "geo_facet": [
+                "Colorado"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Chip Thomas, a physician on the Navajo Nation, is also an artist who created two installations, about 50 miles apart, based on an 1865 census of enslaved Native people in Conejos County and Costilla County, Colo. Here, a partial listing of their names on a wall of a slave dwelling at the compound of Lafayette Head, who took the survey.",
+                    "copyright": "Kalen Goodluck for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/19/arts/19native-bondage-1/19native-bondage-1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/19/arts/19native-bondage-1/merlin_196152477_f3fd0335-0204-4c5b-8514-96730d5a8ae3-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/19/arts/19native-bondage-1/merlin_196152477_f3fd0335-0204-4c5b-8514-96730d5a8ae3-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/773a23cb-2591-5c3c-907e-dc6d1949b6e9",
+            "url": "https://www.nytimes.com/2021/12/14/health/pfizer-covid-19-pill-paxlovid.html",
+            "id": 100000008120048,
+            "asset_id": 100000008120048,
+            "source": "New York Times",
+            "published_date": "2021-12-14",
+            "updated": "2021-12-15 08:59:43",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "Coronavirus Omicron Variant;Coronavirus Delta Variant;Drugs (Pharmaceuticals);Paxlovid (Drug);Molnupiravir (Drug);Clinical Trials;your-feed-science;Pfizer Inc;Merck & Company Inc",
+            "column": null,
+            "byline": "By Carl Zimmer and Rebecca Robbins",
+            "type": "Article",
+            "title": "Pfizer’s Covid Pill Works Well, Company Confirms in Final Analysis",
+            "abstract": "The treatment, called Paxlovid, is likely to work against Omicron and could be available in the United States before the end of the year.",
+            "des_facet": [
+                "Coronavirus Omicron Variant",
+                "Coronavirus Delta Variant",
+                "Drugs (Pharmaceuticals)",
+                "Paxlovid (Drug)",
+                "Molnupiravir (Drug)",
+                "Clinical Trials",
+                "your-feed-science"
+            ],
+            "org_facet": [
+                "Pfizer Inc",
+                "Merck & Company Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A pill of Paxlovid, Pfizer’s Covid treatment, inside a laboratory in Germany. Experts are hopeful Paxlovid could treat the worst of the disease, no matter the variant.",
+                    "copyright": "Pfizer, via Agence France-Presse — Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/14/science/14virus-pfizer1/14virus-pfizer1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/14/science/14virus-pfizer1/14virus-pfizer1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/14/science/14virus-pfizer1/14virus-pfizer1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/873b8a5a-c712-5e34-b518-7a71538d9613",
+            "url": "https://www.nytimes.com/2021/12/17/arts/music/classical-music-tommasini.html",
+            "id": 100000008108679,
+            "asset_id": 100000008108679,
+            "source": "New York Times",
+            "published_date": "2021-12-17",
+            "updated": "2021-12-17 09:40:24",
+            "section": "Arts",
+            "subsection": "Music",
+            "nytdsection": "arts",
+            "adx_keywords": "Classical Music;Music",
+            "column": null,
+            "byline": "By Anthony Tommasini",
+            "type": "Article",
+            "title": "What Shouldn’t Change About Classical Music",
+            "abstract": "Our chief classical music critic bids farewell with some thoughts about what should be preserved in the field he’s covered for decades.",
+            "des_facet": [
+                "Classical Music",
+                "Music"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Fatinha Ramos",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/19/arts/19tony-goodbye/19tony-goodbye-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/19/arts/19tony-goodbye/19tony-goodbye-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/19/arts/19tony-goodbye/19tony-goodbye-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/9a0cead3-8f0d-5dc6-bb39-4d0d77534d81",
+            "url": "https://www.nytimes.com/2021/12/15/theater/broadway-coronavirus-cancellations.html",
+            "id": 100000008118184,
+            "asset_id": 100000008118184,
+            "source": "New York Times",
+            "published_date": "2021-12-15",
+            "updated": "2021-12-16 10:40:45",
+            "section": "Theater",
+            "subsection": "",
+            "nytdsection": "theater",
+            "adx_keywords": "Theater;Coronavirus (2019-nCoV);Disease Rates;Shutdowns (Institutional);Workplace Hazards and Violations;Coronavirus Reopenings;New York City",
+            "column": null,
+            "byline": "By Michael Paulson",
+            "type": "Article",
+            "title": "When the Show Doesn’t Go On: Broadway Is Rattled by Covid Cancellations",
+            "abstract": "Broadway, where cancellations were once vanishingly rare, has seen a raft of them as positive coronavirus tests among cast and crew members have upended productions.",
+            "des_facet": [
+                "Theater",
+                "Coronavirus (2019-nCoV)",
+                "Disease Rates",
+                "Shutdowns (Institutional)",
+                "Workplace Hazards and Violations",
+                "Coronavirus Reopenings"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "New York City"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A growing number of Broadway shows have had to cancel performances because of the coronavirus, including “Ain’t Too Proud,” where some patrons arrived Tuesday only to find out that night’s performance had been canceled.",
+                    "copyright": "Sara Krulwich/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/15/arts/15broadway-cancellations1/15broadway-cancellations1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/15/arts/15broadway-cancellations1/15broadway-cancellations1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/12/15/arts/15broadway-cancellations1/15broadway-cancellations1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/da7fd965-b9c0-548b-80e7-3bdc95a3078a",
+            "url": "https://www.nytimes.com/2021/12/16/business/energy-environment/bolivia-lithium-electric-cars.html",
+            "id": 100000007970522,
+            "asset_id": 100000007970522,
+            "source": "New York Times",
+            "published_date": "2021-12-16",
+            "updated": "2021-12-16 22:09:57",
+            "section": "Business",
+            "subsection": "Energy & Environment ",
+            "nytdsection": "business",
+            "adx_keywords": "Batteries;Lithium (Metal);Electric and Hybrid Vehicles;Automobiles;Mines and Mining;Alternative and Renewable Energy;Entrepreneurship;Foreign Investments;International Relations;United States International Relations;Egan, Teague;Energy Exploration Technologies (EnergyX);Bolivia",
+            "column": null,
+            "byline": "By Clifford Krauss and Meridith Kohut",
+            "type": "Article",
+            "title": "Green-Energy Race Draws an American Underdog to Bolivia’s Lithium",
+            "abstract": "Chinese and Russian industrial giants seek to tap mineral deposits vital to electric cars. A Texas entrepreneur has his own strategy: the long game.",
+            "des_facet": [
+                "Batteries",
+                "Lithium (Metal)",
+                "Electric and Hybrid Vehicles",
+                "Automobiles",
+                "Mines and Mining",
+                "Alternative and Renewable Energy",
+                "Entrepreneurship",
+                "Foreign Investments",
+                "International Relations",
+                "United States International Relations"
+            ],
+            "org_facet": [
+                "Energy Exploration Technologies (EnergyX)"
+            ],
+            "per_facet": [
+                "Egan, Teague"
+            ],
+            "geo_facet": [
+                "Bolivia"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Evaporation ponds run by the state lithium company at a vast area of salt flats in Bolivia. An American entrepreneur says he has a better way to extract lithium there.",
+                    "copyright": "",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2021/10/08/business/00bolivia-lithium01/00bolivia-lithium01-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/10/08/business/00bolivia-lithium01/00bolivia-lithium01-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2021/10/08/business/00bolivia-lithium01/00bolivia-lithium01-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}
